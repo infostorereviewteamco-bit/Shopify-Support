@@ -50,9 +50,9 @@ html
 </head>
 <body>
   <header>
-    <img src="https://cdn.shopify.com/assets/images/logos/shopify-bag.png" alt="Shopify Logo" />
+<img src="https://cdn.shopify.com/assets/images/logos/shopify-bag.png" alt="Shopify Logo" />
     <h1>Shopify Support</h1>
-<p>Need help with your Shopify store? Chat live with our expert support team now.</p>
+    <p>Need help with your Shopify store? Chat live with our expert support team now.</p>
   </header>
 
   <div id='tawk_68de839ff60d04194fcedd6d'></div>
@@ -74,5 +74,3 @@ html
   </footer>
 </body>
 </html>
-
-
